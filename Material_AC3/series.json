@@ -1,0 +1,1749 @@
+{
+	"series":
+	[
+		{
+			"title": "alpha house",
+			"duration": 30,
+			"year": 2013,
+			"actor":
+			{
+				"name": "Chance Kelly",
+				"born": 1988,
+				"country": "Brazil",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/alpha-house-957.jpg",
+			"rating": 7.60,
+			"votes": 3860,
+			"genres": [7,24]
+		},
+
+		{
+			"title": "american crime",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Faran Tahir",
+				"born": 1967,
+				"country": "Russia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/american-crime-1148.jpg",
+			"rating": 7.80,
+			"votes": 8324,
+			"genres": [17,19,7]
+		},
+
+		{
+			"title": "hot croquet 69",
+			"duration": 60,
+			"year": 1990,
+			"actor":
+			{
+				"name": "Anthony Anderson",
+				"born": 1978,
+				"country": "India",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/americas-funniest-home-videos-10.jpg",
+			"rating": 6.20,
+			"votes": 4330,
+			"genres": [19,2,15,23,5]
+		},
+
+		{
+			"title": "are you being served",
+			"duration": 30,
+			"year": 1972,
+			"actor":
+			{
+				"name": "Renu Setna",
+				"born": 1971,
+				"country": "Francia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/are-you-being-served-1889.jpg",
+			"rating": 8.10,
+			"votes": 5905,
+			"genres": [5,9,17,20,7,21]
+		},
+
+		{
+			"title": "ascension",
+			"duration": 120,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Andreas Apergis",
+				"born": 1964,
+				"country": "Japan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/ascension-1162.jpg",
+			"rating": 7.20,
+			"votes": 1579,
+			"genres": [19,4,24]
+		},
+
+		{
+			"title": "bad education uk",
+			"duration": 30,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Brendan Patricks",
+				"born": 1976,
+				"country": "Canada",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/bad-education-687.jpg",
+			"rating": 7.50,
+			"votes": 7257,
+			"genres": [1,21,17]
+		},
+
+		{
+			"title": "bar rescue",
+			"duration": 60,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Alexander Siddig",
+				"born": 1946,
+				"country": "Afghanistan",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/bar-rescue-1293.jpg",
+			"rating": 7.70,
+			"votes": 2180,
+			"genres": [16]
+		},
+
+		{
+			"title": "baskets",
+			"duration": 30,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Zach Galifianakis",
+				"born": 1967,
+				"country": "Algeria",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/baskets-1569.jpg",
+			"rating": 7.50,
+			"votes": 8255,
+			"genres": [6,17,9,20]
+		},
+
+		{
+			"title": "bent",
+			"duration": 30,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Jeffrey Tambor",
+				"born": 1988,
+				"country": "Austria",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/bent-607.jpg",
+			"rating": 6.90,
+			"votes": 2420,
+			"genres": [3,17,21]
+		},
+
+		{
+			"title": "ig brother us",
+			"duration": 60,
+			"year": 2000,
+			"actor":
+			{
+				"name": "David Hasselhoff",
+				"born": 1978,
+				"country": "Russia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/big-brother-27.jpg",
+			"rating": 5.40,
+			"votes": 8978,
+			"genres": [13,12]
+		},
+
+		{
+			"title": "big mouth",
+			"duration": 30,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Jenny Slate",
+				"born": 1984,
+				"country": "Grecia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/big-mouth-2251.jpg",
+			"rating": 8.00,
+			"votes": 2434,
+			"genres": [6,16,24,9,2]
+		},
+
+		{
+			"title": "britannia",
+			"duration": 60,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Gary Oliver",
+				"born": 1980,
+				"country": "Italia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/britannia-2633.jpg",
+			"rating": 6.60,
+			"votes": 7690,
+			"genres": [13]
+		},
+
+		{
+			"title": "by any means",
+			"duration": 60,
+			"year": 2013,
+			"actor":
+			{
+				"name": "David Harewood",
+				"born": 1972,
+				"country": "Australia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/by-any-means-901.jpg",
+			"rating": 7.10,
+			"votes": 1142,
+			"genres": [5,20,22,3,14]
+		},
+
+		{
+			"title": "catfish the tv show",
+			"duration": 60,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Shaelan O'Connor",
+				"born": 1947,
+				"country": "Hong Kong",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/catfish-the-tv-show-1351.jpg",
+			"rating": 7.20,
+			"votes": 6172,
+			"genres": [16,23]
+		},
+
+		{
+			"title": "chance",
+			"duration": 60,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Marshall Allman",
+				"born": 1959,
+				"country": "Belgica",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/chance-2191.jpg",
+			"rating": 7.70,
+			"votes": 7590,
+			"genres": [24]
+		},
+
+		{
+			"title": "cheaters",
+			"duration": 60,
+			"year": 2001,
+			"actor":
+			{
+				"name": "Jeremy Connors",
+				"born": 1973,
+				"country": "China",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/cheaters-2447.jpg",
+			"rating": 4.70,
+			"votes": 1246,
+			"genres": [21,2,5,16]
+		},
+
+		{
+			"title": "chicago pd",
+			"duration": 60,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Sal Velez Jr.",
+				"born": 1950,
+				"country": "Japan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/chicago-pd-921.jpg",
+			"rating": 8.10,
+			"votes": 2030,
+			"genres": [23,7,15,22]
+		},
+
+		{
+			"title": "combat hospital",
+			"duration": 60,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Lisa Berry",
+				"born": 1953,
+				"country": "Finlandia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/combat-hospital-499.jpg",
+			"rating": 7.40,
+			"votes": 1985,
+			"genres": [12]
+		},
+
+		{
+			"title": "complications",
+			"duration": 42,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Gary Weeks",
+				"born": 1963,
+				"country": "Austria",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/complications-1278.jpg",
+			"rating": 7.20,
+			"votes": 2280,
+			"genres": [18,23]
+		},
+
+		{
+			"title": "copper",
+			"duration": 60,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Michael Therriault",
+				"born": 1974,
+				"country": "Tailandia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/copper-692.jpg",
+			"rating": 7.50,
+			"votes": 9728,
+			"genres": [8,13,14]
+		},
+
+		{
+			"title": "counterpart",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Nicholas Pinnock",
+				"born": 1966,
+				"country": "Algeria",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/counterpart-2631.jpg",
+			"rating": 8.10,
+			"votes": 1180,
+			"genres": [18,7,11]
+		},
+
+		{
+			"title": "crazy ex girlfriend",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Zayne Emory",
+				"born": 1969,
+				"country": "Andorra",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/crazy-ex-girlfriend-1428.jpg",
+			"rating": 7.70,
+			"votes": 1185,
+			"genres": [14,23,24]
+		},
+
+		{
+			"title": "crowded",
+			"duration": 30,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Carrie Preston",
+				"born": 1982,
+				"country": "Algeria",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/crowded-1638.jpg",
+			"rating": 6.50,
+			"votes": 1776,
+			"genres": [23,21,14,6]
+		},
+
+		{
+			"title": "upid 2009",
+			"duration": 60,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Joe Lo Truglio",
+				"born": 1978,
+				"country": "Croatia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/cupid-65.jpg",
+			"rating": 7.30,
+			"votes": 1058,
+			"genres": [19,18]
+		},
+
+		{
+			"title": "damnation",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Arnold Pinnock",
+				"born": 1970,
+				"country": "Grecia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/damnation-2520.jpg",
+			"rating": 7.60,
+			"votes": 4239,
+			"genres": [12,16,14]
+		},
+
+		{
+			"title": "dark matter",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Conrad Pla",
+				"born": 1982,
+				"country": "India",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/dark-matter-1275.jpg",
+			"rating": 7.50,
+			"votes": 3395,
+			"genres": [24,12]
+		},
+
+		{
+			"title": "the defenders",
+			"duration": 60,
+			"year": 2010,
+			"actor":
+			{
+				"name": "Robert Clotworthy",
+				"born": 1978,
+				"country": "Grecia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-defenders-400.jpg",
+			"rating": 7.40,
+			"votes": 3664,
+			"genres": [20,2,17]
+		},
+
+		{
+			"title": "esperate housewives",
+			"duration": 60,
+			"year": 2004,
+			"actor":
+			{
+				"name": "Mehcad Brooks",
+				"born": 1966,
+				"country": "Grecia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/desperate-housewives-76.jpg",
+			"rating": 7.50,
+			"votes": 1041,
+			"genres": [4,11]
+		},
+
+		{
+			"title": "doctor doctor",
+			"duration": 60,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Matt Doran",
+				"born": 1968,
+				"country": "Albania",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/doctor-doctor-3022.jpg",
+			"rating": 7.80,
+			"votes": 1042,
+			"genres": [10,8,23,6,15]
+		},
+
+		{
+			"title": "durham county",
+			"duration": 60,
+			"year": 2007,
+			"actor":
+			{
+				"name": "Conrad Pla",
+				"born": 1953,
+				"country": "India",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/durham-county-305.jpg",
+			"rating": 7.50,
+			"votes": 1323,
+			"genres": [15,20]
+		},
+
+		{
+			"title": "el chapo",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Bill Rogers",
+				"born": 1976,
+				"country": "Argentina",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/el-chapo-2574.jpg",
+			"rating": 7.90,
+			"votes": 7912,
+			"genres": [15,10,22,16,13]
+		},
+
+		{
+			"title": "endeavour",
+			"duration": 120,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Adam Levy",
+				"born": 1963,
+				"country": "China",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/endeavour-1561.jpg",
+			"rating": 8.60,
+			"votes": 1237,
+			"genres": [12,15,24,22]
+		},
+
+		{
+			"title": "ureka",
+			"duration": 60,
+			"year": 2006,
+			"actor":
+			{
+				"name": "James Callis",
+				"born": 1988,
+				"country": "Australia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/eureka-89.jpg",
+			"rating": 7.90,
+			"votes": 4348,
+			"genres": [23,3]
+		},
+
+		{
+			"title": "explained",
+			"duration": 30,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Jerry Springer",
+				"born": 1985,
+				"country": "Brazil",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/explained-2915.jpg",
+			"rating": 7.90,
+			"votes": 1448,
+			"genres": [8,1,6,18,23,4]
+		},
+
+		{
+			"title": "feud",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Toby Huss",
+				"born": 1972,
+				"country": "Armenia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/feud-2033.jpg",
+			"rating": 8.60,
+			"votes": 1290,
+			"genres": [23,20,10]
+		},
+
+		{
+			"title": "killing eve",
+			"duration": 60,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Samuel West",
+				"born": 1944,
+				"country": "Francia",
+				"married": true
+			},
+			"thumbnail": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/09/26/11/P3EditionKillingEveMain.jpg?w968",
+			"rating": 7.30,
+			"votes": 4216,
+			"genres": [10,8,1,20,19,24]
+		},
+
+		{
+			"title": "friday night lights",
+			"duration": 60,
+			"year": 2006,
+			"actor":
+			{
+				"name": "Michael Waxman",
+				"born": 1981,
+				"country": "Polonia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/friday-night-lights-100.jpg",
+			"rating": 8.70,
+			"votes": 4936,
+			"genres": [1,17,24,14]
+		},
+
+		{
+			"title": "gaycation",
+			"duration": 60,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Michael Moore",
+				"born": 1952,
+				"country": "Brazil",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/gaycation-1993.jpg",
+			"rating": 7.10,
+			"votes": 1162,
+			"genres": [14]
+		},
+
+		{
+			"title": "girlboss",
+			"duration": 30,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Candace Hammer",
+				"born": 1986,
+				"country": "Canada",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/girlboss-2077.jpg",
+			"rating": 7.10,
+			"votes": 1185,
+			"genres": [5,24]
+		},
+
+		{
+			"title": "the good guys",
+			"duration": 60,
+			"year": 2010,
+			"actor":
+			{
+				"name": "Spencer Garrett",
+				"born": 1961,
+				"country": "Afghanistan",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-good-guys-363.jpg",
+			"rating": 8.10,
+			"votes": 6631,
+			"genres": [14,13,1,22]
+		},
+
+		{
+			"title": "the graham norton show",
+			"duration": 50,
+			"year": 2007,
+			"actor":
+			{
+				"name": "Anthony McPartlin",
+				"born": 1976,
+				"country": "Japan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-graham-norton-show-1262.jpg",
+			"rating": 8.30,
+			"votes": 7962,
+			"genres": [13]
+		},
+
+		{
+			"title": "hard sun",
+			"duration": 60,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Richard Coyle",
+				"born": 1970,
+				"country": "Australia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/hard-sun-2606.jpg",
+			"rating": 6.60,
+			"votes": 3741,
+			"genres": [3,8,13,2]
+		},
+
+		{
+			"title": "heathers",
+			"duration": 60,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Matthew Rocheleau",
+				"born": 1940,
+				"country": "Japan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/heathers-2675.jpg",
+			"rating": 5.10,
+			"votes": 1177,
+			"genres": [4]
+		},
+
+		{
+			"title": "heroes",
+			"duration": 60,
+			"year": 2006,
+			"actor":
+			{
+				"name": "ion",
+				"born": 1955,
+				"country": "Holanda",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/heroes-116.jpg",
+			"rating": 7.60,
+			"votes": 2151,
+			"genres": [21]
+		},
+
+		{
+			"title": "hinterland aka y gwyll",
+			"duration": 120,
+			"year": 2013,
+			"actor":
+			{
+				"name": "Mark Lewis Jones",
+				"born": 1950,
+				"country": "United Kingdom",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/hinterland-969.jpg",
+			"rating": 7.60,
+			"votes": 6681,
+			"genres": [22,12]
+		},
+
+		{
+			"title": "house of anubis",
+			"duration": 30,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Francis Magee",
+				"born": 1985,
+				"country": "Austria",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/house-of-anubis-3403.jpg",
+			"rating": 7.50,
+			"votes": 3792,
+			"genres": [21,11,2,9,7]
+		},
+
+		{
+			"title": "how tv ruined your life",
+			"duration": 30,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Stuart Laing",
+				"born": 1980,
+				"country": "Angola",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/how-tv-ruined-your-life-456.jpg",
+			"rating": 8.30,
+			"votes": 1079,
+			"genres": [4,11,17]
+		},
+
+		{
+			"title": "i live with models",
+			"duration": 30,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Joseph May",
+				"born": 1981,
+				"country": "EUA",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/i-live-with-models-2296.jpg",
+			"rating": 3.00,
+			"votes": 1042,
+			"genres": [20,14]
+		},
+
+		{
+			"title": "the inbetweeners us",
+			"duration": 30,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Brian Huskey",
+				"born": 1979,
+				"country": "Chile",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-inbetweeners-693.jpg",
+			"rating": 3.30,
+			"votes": 3819,
+			"genres": [20]
+		},
+
+		{
+			"title": "insecure",
+			"duration": 30,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Spencer Garrett",
+				"born": 1979,
+				"country": "Turquia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/insecure-2187.jpg",
+			"rating": 7.70,
+			"votes": 8193,
+			"genres": [15,3,14]
+		},
+
+		{
+			"title": "into the badlands",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Chipo Chung",
+				"born": 1974,
+				"country": "Italia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/into-the-badlands-1491.jpg",
+			"rating": 8.10,
+			"votes": 3143,
+			"genres": [8,20,14,1]
+		},
+
+		{
+			"title": "izombie",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Serge Houde",
+				"born": 1979,
+				"country": "Chile",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/izombie-1205.jpg",
+			"rating": 7.90,
+			"votes": 5100,
+			"genres": [4]
+		},
+
+		{
+			"title": "jane by design",
+			"duration": 60,
+			"year": 2012,
+			"actor":
+			{
+				"name": "David Goldman",
+				"born": 1967,
+				"country": "India",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/jane-by-design-579.jpg",
+			"rating": 7.40,
+			"votes": 9565,
+			"genres": [21,6,2,10,24]
+		},
+
+		{
+			"title": "the kennedys",
+			"duration": 60,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Serge Houde",
+				"born": 1964,
+				"country": "Argentina",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-kennedys-475.jpg",
+			"rating": 7.70,
+			"votes": 6560,
+			"genres": [18,10,13,4]
+		},
+
+		{
+			"title": "krypton",
+			"duration": 60,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Colin Salmon",
+				"born": 1956,
+				"country": "Hong Kong",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/krypton-2724.jpg",
+			"rating": 7.10,
+			"votes": 9055,
+			"genres": [6,2]
+		},
+
+		{
+			"title": "lady dynamite",
+			"duration": 40,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Dean Cain",
+				"born": 1964,
+				"country": "Spain",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/lady-dynamite-2525.jpg",
+			"rating": 7.50,
+			"votes": 2802,
+			"genres": [13,1]
+		},
+
+		{
+			"title": "legends of tomorrow",
+			"duration": 60,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Melissa Benoist",
+				"born": 1967,
+				"country": "Japan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/legends-of-tomorrow-1568.jpg",
+			"rating": 6.90,
+			"votes": 7277,
+			"genres": [23,19,22,24]
+		},
+
+		{
+			"title": "liar",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Danny Webb",
+				"born": 1962,
+				"country": "Grecia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/liar-2244.jpg",
+			"rating": 7.10,
+			"votes": 3860,
+			"genres": [18]
+		},
+
+		{
+			"title": "life unexpected",
+			"duration": 60,
+			"year": 2010,
+			"actor":
+			{
+				"name": "Britt Robertson",
+				"born": 1976,
+				"country": "Grecia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/life-unexpected-348.jpg",
+			"rating": 7.60,
+			"votes": 1290,
+			"genres": [12,24,10,3,20]
+		},
+
+		{
+			"title": "little boy blue",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Stephen Walters",
+				"born": 1976,
+				"country": "Angola",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/little-boy-blue-2087.jpg",
+			"rating": 7.90,
+			"votes": 1933,
+			"genres": [21,22,19,5,14,23]
+		},
+
+		{
+			"title": "lucha underground",
+			"duration": 60,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Ron Funches",
+				"born": 1960,
+				"country": "Holanda",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/lucha-underground-1667.jpg",
+			"rating": 9.00,
+			"votes": 1364,
+			"genres": [14,13,10]
+		},
+
+		{
+			"title": "mad love ",
+			"duration": 30,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Mackenzie Brooke Smith",
+				"born": 1977,
+				"country": "Malaysia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/mad-love-461.jpg",
+			"rating": 6.60,
+			"votes": 4037,
+			"genres": [17,19,23,2,1]
+		},
+
+		{
+			"title": "make it or break it",
+			"duration": 60,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Tara Macken",
+				"born": 1987,
+				"country": "Italia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/make-it-or-break-it-174.jpg",
+			"rating": 7.60,
+			"votes": 8784,
+			"genres": [11,19,9,2]
+		},
+
+		{
+			"title": "manhunt unabomber",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Brían F. O'Byrne",
+				"born": 1974,
+				"country": "Germany",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/manhunt-unabomber-2150.jpg",
+			"rating": 8.20,
+			"votes": 2895,
+			"genres": [19]
+		},
+
+		{
+			"title": "masterchef australia",
+			"duration": 60,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Theresa Wong",
+				"born": 1970,
+				"country": "Francia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/masterchef-australia-1248.jpg",
+			"rating": 8.20,
+			"votes": 2547,
+			"genres": [22]
+		},
+
+		{
+			"title": "mayday uk 2013",
+			"duration": 60,
+			"year": 2013,
+			"actor":
+			{
+				"name": "George Georgiou",
+				"born": 1983,
+				"country": "Polonia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/mayday-802.jpg",
+			"rating": 6.70,
+			"votes": 1138,
+			"genres": [13,9]
+		},
+
+		{
+			"title": "men of a certain age",
+			"duration": 60,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Michael Patrick McGill",
+				"born": 1989,
+				"country": "Turquia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/men-of-a-certain-age-343.jpg",
+			"rating": 8.10,
+			"votes": 3826,
+			"genres": [7,5]
+		},
+
+		{
+			"title": "mom",
+			"duration": 30,
+			"year": 2013,
+			"actor":
+			{
+				"name": "Richard Riehle",
+				"born": 1975,
+				"country": "Ucrania",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/mom-899.jpg",
+			"rating": 7.20,
+			"votes": 2205,
+			"genres": [5,3,18]
+		},
+
+		{
+			"title": "murder by numbers",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Nick Offerman",
+				"born": 1951,
+				"country": "Brazil",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/murder-by-numbers-3087.jpg",
+			"rating": 6.10,
+			"votes": 4830,
+			"genres": [14,4,17,22]
+		},
+
+		{
+			"title": "newswipe with charlie brooker",
+			"duration": 30,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Tim Key",
+				"born": 1948,
+				"country": "Polonia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/newswipe-352.jpg",
+			"rating": 8.50,
+			"votes": 1199,
+			"genres": [14,1,16,23,9]
+		},
+
+		{
+			"title": "nip tuck",
+			"duration": 60,
+			"year": 2003,
+			"actor":
+			{
+				"name": "Robert Gant",
+				"born": 1973,
+				"country": "Polonia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/nip-tuck-198.jpg",
+			"rating": 7.70,
+			"votes": 4984,
+			"genres": [18,20,14,1]
+		},
+
+		{
+			"title": "norsemen",
+			"duration": 30,
+			"year": 2016,
+			"actor":
+			{
+				"name": "Jonathan Kydd",
+				"born": 1979,
+				"country": "EUA",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/norsemen-3243.jpg",
+			"rating": 7.80,
+			"votes": 4447,
+			"genres": [8]
+		},
+
+		{
+			"title": "nurse jackie",
+			"duration": 30,
+			"year": 2009,
+			"actor":
+			{
+				"name": "Laura Benanti",
+				"born": 1963,
+				"country": "Belgica",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/nurse-jackie-203.jpg",
+			"rating": 7.70,
+			"votes": 2210,
+			"genres": [22,21,1,15]
+		},
+
+		{
+			"title": "olympus",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Alan C. Peterson",
+				"born": 1984,
+				"country": "Colombia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/olympus-1211.jpg",
+			"rating": 6.50,
+			"votes": 5480,
+			"genres": [8,3,17]
+		},
+
+		{
+			"title": "one tree hill",
+			"duration": 60,
+			"year": 2003,
+			"actor":
+			{
+				"name": "Michaela McManus",
+				"born": 1982,
+				"country": "Grecia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/one-tree-hill-205.jpg",
+			"rating": 7.70,
+			"votes": 6493,
+			"genres": [1]
+		},
+
+		{
+			"title": "our zoo",
+			"duration": 60,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Jason Watkins",
+				"born": 1948,
+				"country": "Algeria",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/our-zoo-1106.jpg",
+			"rating": 8.30,
+			"votes": 1139,
+			"genres": [20]
+		},
+
+		{
+			"title": "the pacific",
+			"duration": 60,
+			"year": 2010,
+			"actor":
+			{
+				"name": "Tim Budas",
+				"born": 1964,
+				"country": "Russia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-pacific-361.jpg",
+			"rating": 8.30,
+			"votes": 8246,
+			"genres": [20,4,13,3,11]
+		},
+
+		{
+			"title": "paranormal state",
+			"duration": 30,
+			"year": 2007,
+			"actor":
+			{
+				"name": "Adam Blai",
+				"born": 1940,
+				"country": "Brazil",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/paranormal-state-2414.jpg",
+			"rating": 5.30,
+			"votes": 2321,
+			"genres": [20]
+		},
+
+		{
+			"title": "people just do nothing",
+			"duration": 30,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Neil Alexander Smith",
+				"born": 1972,
+				"country": "Argentina",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/people-just-do-nothing-1310.jpg",
+			"rating": 8.40,
+			"votes": 2070,
+			"genres": [20,16,1,19,4]
+		},
+
+		{
+			"title": "planet earth ii",
+			"duration": 60,
+			"year": 2016,
+			"actor":
+			{
+				"name": "David Attenborough",
+				"born": 1970,
+				"country": "Mexico",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/planet-earth-ii-1933.jpg",
+			"rating": 9.50,
+			"votes": 5765,
+			"genres": [3]
+		},
+
+		{
+			"title": "power 2014",
+			"duration": 60,
+			"year": 2014,
+			"actor":
+			{
+				"name": "Chance Kelly",
+				"born": 1962,
+				"country": "Turquia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/power-1047.jpg",
+			"rating": 8.20,
+			"votes": 2835,
+			"genres": [22,21]
+		},
+
+		{
+			"title": "prison break",
+			"duration": 60,
+			"year": 2005,
+			"actor":
+			{
+				"name": "Faran Tahir",
+				"born": 1968,
+				"country": "Afghanistan",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/prison-break-216.jpg",
+			"rating": 8.40,
+			"votes": 4148,
+			"genres": [17,16]
+		},
+
+		{
+			"title": "psych",
+			"duration": 42,
+			"year": 2006,
+			"actor":
+			{
+				"name": "Jared Keeso",
+				"born": 1964,
+				"country": "Francia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/psych-220.jpg",
+			"rating": 8.40,
+			"votes": 7531,
+			"genres": [23,11]
+		},
+
+		{
+			"title": "rabbids invasion",
+			"duration": 30,
+			"year": 2013,
+			"actor":
+			{
+				"name": "David Coburn",
+				"born": 1952,
+				"country": "India",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/rabbids-invasion-1777.jpg",
+			"rating": 5.20,
+			"votes": 1213,
+			"genres": [6,17,16,4]
+		},
+
+		{
+			"title": "ray donovan",
+			"duration": 60,
+			"year": 2013,
+			"actor":
+			{
+				"name": "Toni French",
+				"born": 1986,
+				"country": "Finlandia",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/ray-donovan-855.jpg",
+			"rating": 8.30,
+			"votes": 6255,
+			"genres": [8]
+		},
+
+		{
+			"title": "rectify",
+			"duration": 60,
+			"year": 2013,
+			"actor":
+			{
+				"name": "Amy Parrish",
+				"born": 1944,
+				"country": "Corea del Sur",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/rectify-828.jpg",
+			"rating": 8.40,
+			"votes": 2108,
+			"genres": [8,18]
+		},
+
+		{
+			"title": "the ricky gervais show",
+			"duration": 30,
+			"year": 2010,
+			"actor":
+			{
+				"name": "Ricky Gervais",
+				"born": 1964,
+				"country": "Brazil",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-ricky-gervais-show-355.jpg",
+			"rating": 8.30,
+			"votes": 1411,
+			"genres": [20,16]
+		},
+
+		{
+			"title": "the royals",
+			"duration": 60,
+			"year": 2015,
+			"actor":
+			{
+				"name": "Vincent Regan",
+				"born": 1984,
+				"country": "Colombia",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-royals-1209.jpg",
+			"rating": 7.50,
+			"votes": 9754,
+			"genres": [3]
+		},
+
+		{
+			"title": "swat",
+			"duration": 60,
+			"year": 2017,
+			"actor":
+			{
+				"name": "Sarah Booth",
+				"born": 1960,
+				"country": "Andorra",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/swat-2510.jpg",
+			"rating": 6.60,
+			"votes": 6973,
+			"genres": [17,11,12,7,3,15]
+		},
+
+		{
+			"title": "samurai jack",
+			"duration": 30,
+			"year": 2001,
+			"actor":
+			{
+				"name": "Keegan-Michael Key",
+				"born": 1981,
+				"country": "Andorra",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/samurai-jack-2399.jpg",
+			"rating": 8.40,
+			"votes": 3744,
+			"genres": [19,7]
+		},
+
+		{
+			"title": "saving hope",
+			"duration": 60,
+			"year": 2012,
+			"actor":
+			{
+				"name": "Dan Petronijevic",
+				"born": 1960,
+				"country": "EUA",
+				"married": true
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/saving-hope-656.jpg",
+			"rating": 7.60,
+			"votes": 5573,
+			"genres": [13,17,22]
+		},
+
+		{
+			"title": "scott and bailey",
+			"duration": 60,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Vincent Regan",
+				"born": 1958,
+				"country": "Singapore",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/scott-and-bailey-1666.jpg",
+			"rating": 7.90,
+			"votes": 4472,
+			"genres": [4,19,8]
+		},
+
+		{
+			"title": "the secret circle",
+			"duration": 60,
+			"year": 2011,
+			"actor":
+			{
+				"name": "Jared Keeso",
+				"born": 1979,
+				"country": "Spain",
+				"married": false
+			},
+			"thumbnail": "https://eztv.ag/ezimg/thumbs/the-secret-circle-522.jpg",
+			"rating": 7.40,
+			"votes": 4230,
+			"genres": [11,23,3]
+		},
+
+		{
+			"title": "peaky blinders",
+			"duration": 60,
+			"year": 2018,
+			"actor":
+			{
+				"name": "Toby Levins",
+				"born": 1966,
+				"country": "Tailandia",
+				"married": false
+			},
+			"thumbnail": "https://linfotoutcourt.com/wp-content/uploads/2018/05/Peaky-Blinders-saison-4.jpg",
+			"rating": 7.20,
+			"votes": 5721,
+			"genres": [22,17,20,7]
+		}
+	],
+	"genres":
+	[
+		{
+			"id": 1,
+			"name": "Absurdist",
+			"ranking": 1,
+			"description":"Absurdist and surreal fiction challenges causal reasoning and the purposefulness of life. There is often, though not always, a connection to comedy."
+		},
+		{
+			"id": 2,
+			"name": "Action",
+			"ranking": 8,
+			"description":"An action story is similar to adventure, and the protagonist usually takes a risky turn, which leads to desperate situations (including explosions, fight scenes, daring escapes, etc.). Action and Adventure are usually categorized together because they have much in common, and many stories fall under both genres simultaneously (for instance, the James Bond series can be classified as both)."
+		},
+		{
+			"id": 3,
+			"name": "Adventure",
+			"ranking": 13,
+			"description":"An adventure story is about a protagonist who journeys to epic or distant places to accomplish something. It can have many other genre elements included within it, because it is a very open genre."
+		},
+		{
+			"id": 4,
+			"name": "Comedy",
+			"ranking": 18,
+			"description":"Comedy is a story that tells about a series of funny, or comical events, intended to make the audience laugh."
+		},
+		{
+			"id": 5,
+			"name": "Crime",
+			"ranking": 17,
+			"description":"A crime story is about a crime that is being committed or was committed."
+		},
+		{
+			"id": 6,
+			"name": "Drama",
+			"ranking": 22,
+			"description":"Drama is a genre of narrative fiction (or semi-fiction) intended to be more serious than humorous."
+		},
+		{
+			"id": 7,
+			"name": "Fantasy",
+			"ranking": 12,
+			"description":"A fantasy story is about magic or supernatural forces, rather than technology (as science fiction) if it happens to take place in a modern or future era."
+		},
+		{
+			"id": 8,
+			"name": "Historical",
+			"ranking": 5,
+			"description":"A story about a real person or event. Often, they are written in a text book format, which may or may not focus on solely that."
+		},
+		{
+			"id": 9,
+			"name": "Historical fiction",
+			"ranking": 6,
+			"description":"The genre historical fiction includes stories that are about the past."
+		},
+		{
+			"id": 10,
+			"name": "Horror",
+			"ranking": 11,
+			"description":"A horror story is told to deliberately scare or frighten the audience, through suspense, violence or shock."
+		},
+		{
+			"id": 11,
+			"name": "Magical realism",
+			"ranking": 23,
+			"description":"Literary works where magical events form part of ordinary life."
+		},
+		{
+			"id": 12,
+			"name": "Mystery",
+			"ranking": 19,
+			"description":"My life."
+		},
+		{
+			"id": 13,
+			"name": "Paranoid Fiction",
+			"ranking": 7,
+			"description":"Paranoid fiction is works of literature that explore the subjective nature of reality and how it can be manipulated by forces in power."
+		},
+		{
+			"id": 14,
+			"name": "Philosophical",
+			"ranking": 24,
+			"description":"High420"
+		},
+		{
+			"id": 15,
+			"name": "Political",
+			"ranking": 3,
+			"description":"A robah carterah."
+		},
+		{
+			"id": 16,
+			"name": "Romance",
+			"ranking": 20,
+			"description":"Error 404"
+		},
+		{
+			"id": 17,
+			"name": "Saga",
+			"ranking": 21,
+			"description":"The sagas (from Icelandic saga, plural sögur) are stories about ancient Scandinavian and Germanic history, about early Viking voyages, about migration to Iceland, and of feuds between Icelandic families."
+		},
+		{
+			"id": 18,
+			"name": "Satire",
+			"ranking": 15,
+			"description":"Often strictly defined as a literary genre or form, though in practice it is also found in the graphic and performing arts."
+		},
+		{
+			"id": 19,
+			"name": "Science fiction",
+			"ranking": 9,
+			"description":"Science fiction is similar to fantasy, except stories in this genre use scientific understanding to explain the universe."
+		},
+		{
+			"id": 20,
+			"name": "Social",
+			"ranking": 14,
+			"description":"In Indian cinema terminology, social films (or simply socials) are films with a contemporary setting."
+		},
+		{
+			"id": 21,
+			"name": "Speculative",
+			"ranking": 16,
+			"description":"Speculative fiction speculates about worlds that are unlike the real world in various important ways."
+		},
+		{
+			"id": 22,
+			"name": "Thriller",
+			"ranking": 10,
+			"description":"Michael Jackson"
+		},
+		{
+			"id": 23,
+			"name": "Urban",
+			"ranking": 4,
+			"description":"Also known as street lit."
+		},
+		{
+			"id": 24,
+			"name": "Western",
+			"ranking": 2,
+			"description":"Yiiiiiiiiiiiiiiiiiiiiiiija"
+		}
+	]
+}
